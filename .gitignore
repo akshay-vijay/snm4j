@@ -1,0 +1,13 @@
+.idea/
+.vertx/
+.settings/
+.gradle/
+target/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+dependency-reduced-pom.xml
+release.properties
+pom.xml.versionsBackup
